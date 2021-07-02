@@ -1,0 +1,31 @@
+.overlay{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-color:rgba(0,0,0,0.5);
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 1000;
+}
+.modal-style{
+    transform: translate(-50%, -50%);
+    z-index: 2000;
+    position: fixed;
+    margin: auto;
+    display: block;
+    top: 50%;
+    left: 50%;
+}
+#mapbox{
+    background-color: var(--primary-aqua-2);
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    overflow: hidden;
+}

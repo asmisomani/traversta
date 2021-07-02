@@ -1,0 +1,7 @@
+#footer{
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(360px,auto));
+    padding: 3rem;
+    background-color:var(--primary-aqua-4);
+}

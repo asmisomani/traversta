@@ -1,0 +1,41 @@
+#abtus{
+    padding: 1rem;
+    background-color: var(--primary-aqua-2);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    grid-gap: 1rem;
+    gap: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(auto,350px));
+    align-items: center;
+    /* justify-content: space-evenly;*/
+}
+.cmn img{
+    position: absolute;
+    backface-visibility: hidden;
+    transition: .5s ease;
+}
+.cmn .hov{
+    position: absolute;
+    display: flex;
+    flex-flow: column;
+    transition: .5s ease;
+    text-align: center;
+    opacity: 0;
+    justify-content: center;
+    text-transform: capitalize;
+    background-color: var(--white-75);
+}
+.cmn{
+    opacity:1;
+}
+.cmn:hover img{
+    opacity: 1;
+}
+.cmn:hover .hov{
+    opacity:1;
+}
+
