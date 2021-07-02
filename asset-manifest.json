@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/traversta/static/css/main.c95decf1.chunk.css",
+    "main.js": "/traversta/static/js/main.1628053c.chunk.js",
+    "main.js.map": "/traversta/static/js/main.1628053c.chunk.js.map",
+    "runtime-main.js": "/traversta/static/js/runtime-main.ce4bb09d.js",
+    "runtime-main.js.map": "/traversta/static/js/runtime-main.ce4bb09d.js.map",
+    "static/css/2.55f60144.chunk.css": "/traversta/static/css/2.55f60144.chunk.css",
+    "static/js/2.03569330.chunk.js": "/traversta/static/js/2.03569330.chunk.js",
+    "static/js/2.03569330.chunk.js.map": "/traversta/static/js/2.03569330.chunk.js.map",
+    "index.html": "/traversta/index.html",
+    "static/css/2.55f60144.chunk.css.map": "/traversta/static/css/2.55f60144.chunk.css.map",
+    "static/css/main.c95decf1.chunk.css.map": "/traversta/static/css/main.c95decf1.chunk.css.map",
+    "static/js/2.03569330.chunk.js.LICENSE.txt": "/traversta/static/js/2.03569330.chunk.js.LICENSE.txt",
+    "static/media/bgvid2.bfe91adf.mp4": "/traversta/static/media/bgvid2.bfe91adf.mp4",
+    "static/media/img1.ea888c7d.png": "/traversta/static/media/img1.ea888c7d.png",
+    "static/media/img2.c41168fb.png": "/traversta/static/media/img2.c41168fb.png",
+    "static/media/img3.933bf783.png": "/traversta/static/media/img3.933bf783.png",
+    "static/media/img4.65b7c6e8.png": "/traversta/static/media/img4.65b7c6e8.png",
+    "static/media/img5.27ff8faa.png": "/traversta/static/media/img5.27ff8faa.png",
+    "static/media/img6.c0e72f45.png": "/traversta/static/media/img6.c0e72f45.png",
+    "static/media/img7.40cc8cf2.png": "/traversta/static/media/img7.40cc8cf2.png",
+    "static/media/img8.8c2cdd16.png": "/traversta/static/media/img8.8c2cdd16.png",
+    "static/media/poster.bd607233.jpg": "/traversta/static/media/poster.bd607233.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce4bb09d.js",
+    "static/css/2.55f60144.chunk.css",
+    "static/js/2.03569330.chunk.js",
+    "static/css/main.c95decf1.chunk.css",
+    "static/js/main.1628053c.chunk.js"
+  ]
+}
